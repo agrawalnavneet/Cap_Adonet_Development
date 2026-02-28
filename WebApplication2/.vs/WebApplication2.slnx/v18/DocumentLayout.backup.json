@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\webapplication2\\webapplication2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\webapplication2\\webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\webapplication2\\webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA6139EA-3544-4364-8E8A-FBB760036999}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:54:42.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:51:34.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Student.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:50:31.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:43:53.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication2",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T06:43:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T06:33:16.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

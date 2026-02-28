@@ -1,0 +1,72 @@
+﻿@model collage_form.Models.Student
+
+@{
+    ViewData["Title"] = "University Admission Form";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-primary text-white text-center rounded-top-4">
+            <h3>🎓 University Admission Form</h3>
+        </div>
+
+        <div class="card-body p-4 bg-light">
+
+            <form asp-action="Create">
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label asp-for="Name" class="form-label fw-bold"></label>
+                        <input asp-for="Name" class="form-control border-primary" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="Age" class="form-label fw-bold"></label>
+                        <input asp-for="Age" class="form-control border-success" />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label asp-for="DOB" class="form-label fw-bold"></label>
+                        <input asp-for="DOB" type="date" class="form-control border-warning" />
+                        <span asp-validation-for="DOB" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="FatherName" class="form-label fw-bold"></label>
+                        <input asp-for="FatherName" class="form-control border-info" />
+                        <span asp-validation-for="FatherName" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Place" class="form-label fw-bold"></label>
+                    <input asp-for="Place" class="form-control border-dark" />
+                    <span asp-validation-for="Place" class="text-danger"></span>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-lg btn-success px-5 shadow">
+                        Submit
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary btn-lg ms-3">
+                        Back
+                    </a>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

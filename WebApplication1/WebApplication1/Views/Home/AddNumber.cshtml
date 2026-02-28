@@ -1,0 +1,13 @@
+﻿<h2>Add Three Numbers</h2>
+
+<form method="get">
+    <input type="number" name="number1" placeholder="Number 1" />
+    <input type="number" name="number2" placeholder="Number 2" />
+    <input type="number" name="number3" placeholder="Number 3" />
+    <button type="submit">Add</button>
+</form>
+
+@if (ViewBag.Result != null)
+{
+    <h3>Result: @ViewBag.Result</h3>
+}

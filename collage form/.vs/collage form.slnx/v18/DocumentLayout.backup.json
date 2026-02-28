@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage_form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage_form.csproj|solutionrelative:collage form\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|solutionrelative:collage form\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage_form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage_form.csproj|solutionrelative:collage form\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage_form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\collage_form.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage_form.csproj|solutionrelative:collage form\\collage_form.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|solutionrelative:collage form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|solutionrelative:collage form\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3370A74-4EDE-4866-8201-7478716A7E4C}|collage form\\collage form.csproj|solutionrelative:collage form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "collage form\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Views\\Students\\Create.cshtml*",
+              "RelativeToolTip": "collage form\\Views\\Students\\Create.cshtml*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T06:22:25.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "collage form\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "collage form\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:26:31.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Program.cs",
+              "RelativeDocumentMoniker": "collage form\\Program.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Program.cs",
+              "RelativeToolTip": "collage form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:17:40.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\appsettings.json",
+              "RelativeDocumentMoniker": "collage form\\appsettings.json",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\appsettings.json",
+              "RelativeToolTip": "collage form\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T05:15:16.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "collage form\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "collage form\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:13:32.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "collage_form.csproj",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\collage_form.csproj",
+              "RelativeDocumentMoniker": "collage form\\collage_form.csproj",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\collage_form.csproj",
+              "RelativeToolTip": "collage form\\collage_form.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T05:13:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "collage form\\Models\\Student.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\collage form\\collage form\\Models\\Student.cs",
+              "RelativeToolTip": "collage form\\Models\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:12:17.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

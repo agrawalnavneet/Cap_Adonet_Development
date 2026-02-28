@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\efcodefirstmvc\\efcodefirstmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|solutionrelative:efcodefirstmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\efcodefirstmvc\\efcodefirstmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|solutionrelative:efcodefirstmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\efcodefirstmvc\\efcodefirstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|solutionrelative:efcodefirstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\efcodefirstmvc\\efcodefirstmvc\\data\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|solutionrelative:efcodefirstmvc\\data\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\efcodefirstmvc\\efcodefirstmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88FB7402-958F-4709-9F12-99861612A498}|EFCodefirstMVC\\EFCodefirstMVC.csproj|solutionrelative:efcodefirstmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "EFCodefirstMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "EFCodefirstMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv5wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:25:36.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EFCodefirstMVC\\Program.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Program.cs",
+              "RelativeToolTip": "EFCodefirstMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:23:16.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EFCodefirstMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Models\\Student.cs",
+              "RelativeToolTip": "EFCodefirstMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:22:21.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCodefirstMVC\\appsettings.json",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\appsettings.json",
+              "RelativeToolTip": "EFCodefirstMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T05:20:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManagementContext.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Data\\StudentManagementContext.cs",
+              "RelativeDocumentMoniker": "EFCodefirstMVC\\Data\\StudentManagementContext.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\EFCodefirstMVC\\EFCodefirstMVC\\Data\\StudentManagementContext.cs",
+              "RelativeToolTip": "EFCodefirstMVC\\Data\\StudentManagementContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:18:38.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

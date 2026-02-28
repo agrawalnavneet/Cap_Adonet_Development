@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\computer_main\\main\\all_work\\visula-studios\\ssms_connect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C008966-8642-4FCF-8923-6AD97DA730EE}|ssms_connect\\ssms_connect.csproj|c:\\computer_main\\main\\all_work\\visula-studios\\ssms_connect\\ssms_connect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C008966-8642-4FCF-8923-6AD97DA730EE}|ssms_connect\\ssms_connect.csproj|solutionrelative:ssms_connect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\computer_main\\main\\all_work\\visula-studios\\ssms_connect\\ssms_connect\\Program.cs",
+              "RelativeDocumentMoniker": "ssms_connect\\Program.cs",
+              "ToolTip": "C:\\computer_main\\main\\all_work\\visula-studios\\ssms_connect\\ssms_connect\\Program.cs",
+              "RelativeToolTip": "ssms_connect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:15:21.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
