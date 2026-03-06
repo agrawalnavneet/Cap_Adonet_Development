@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/bin/Debug/net10.0/app
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/bin/Debug/net10.0/app.deps.json
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/bin/Debug/net10.0/app.runtimeconfig.json
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/bin/Debug/net10.0/app.dll
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/bin/Debug/net10.0/app.pdb
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.sourcelink.json
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.dll
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/refint/app.dll
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.pdb
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/app.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/day44/app/obj/Debug/net10.0/ref/app.dll
