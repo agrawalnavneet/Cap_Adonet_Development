@@ -1,7 +1,11 @@
-
+using System.Collections.Generic;
 using app.Models;
-public interface IStudentRepository
+
+namespace app.Repositories
 {
-    List<Student> GetAllStudents();
-    void AddStudent(Student student);
+    public interface IStudentRepository
+    {
+        List<Student> GetAllStudents();
+        void AddStudent(Student student);
+    }
 }

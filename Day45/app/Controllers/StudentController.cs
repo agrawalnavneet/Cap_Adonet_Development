@@ -1,6 +1,8 @@
 using System.Diagnostics;
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using app.Models;
+using app.Repositories;
 
 namespace app.Controllers;
 public class StudentController : Controller
