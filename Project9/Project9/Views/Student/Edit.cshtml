@@ -1,0 +1,40 @@
+﻿@model Project9.Models.Student
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit">
+
+    <input type="hidden" asp-for="StudentId" />
+
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Age</label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Marks</label>
+        <input asp-for="Marks" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Password" type="password" class="form-control" />
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Update</button>
+
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+
+</form>

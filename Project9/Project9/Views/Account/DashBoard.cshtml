@@ -1,0 +1,24 @@
+﻿@model Project9.Models.Student
+
+<h2>Student Dashboard</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+
+    <tr>
+        <th>Marks</th>
+        <td>@Model.Marks</td>
+    </tr>
+
+</table>
+
+<a asp-action="Logout" class="btn btn-danger">Logout</a>

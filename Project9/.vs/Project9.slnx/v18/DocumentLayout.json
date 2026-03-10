@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aryan\\source\\repos\\Project9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\models\\studentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\models\\studentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\migrations\\20260309103331_studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\migrations\\20260309103331_studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|c:\\users\\aryan\\source\\repos\\project9\\project9\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19B4516-3272-C474-06D6-A6420FC1D37B}|Project9\\Project9.csproj|solutionrelative:project9\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T18:31:02.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T18:25:45.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project9\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project9\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:34:52.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Program.cs",
+              "RelativeDocumentMoniker": "Project9\\Program.cs",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Program.cs",
+              "RelativeToolTip": "Project9\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:34:06.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260309103331_StudentLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Migrations\\20260309103331_StudentLogin.cs",
+              "RelativeDocumentMoniker": "Project9\\Migrations\\20260309103331_StudentLogin.cs",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Migrations\\20260309103331_StudentLogin.cs",
+              "RelativeToolTip": "Project9\\Migrations\\20260309103331_StudentLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:33:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Project9\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Models\\Student.cs",
+              "RelativeToolTip": "Project9\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:32:09.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:27:17.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:35:13.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Models\\StudentAccount.cs",
+              "RelativeDocumentMoniker": "Project9\\Models\\StudentAccount.cs",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Models\\StudentAccount.cs",
+              "RelativeToolTip": "Project9\\Models\\StudentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:38:18.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:28:00.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Account\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Account\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Account\\DashBoard.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Account\\DashBoard.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:35:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project9\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Project9\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:26:38.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Project9\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Aryan\\source\\repos\\Project9\\Project9\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Project9\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:00:14.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
