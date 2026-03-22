@@ -44,3 +44,5 @@
 /Users/navneetagarwal/Desktop/donet/ADO.NET Development/Sprint_mini/CatalogService/obj/Debug/net10.0/CatalogService.pdb
 /Users/navneetagarwal/Desktop/donet/ADO.NET Development/Sprint_mini/CatalogService/obj/Debug/net10.0/CatalogService.genruntimeconfig.cache
 /Users/navneetagarwal/Desktop/donet/ADO.NET Development/Sprint_mini/CatalogService/obj/Debug/net10.0/ref/CatalogService.dll
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/Sprint_mini/CatalogService/bin/Debug/net10.0/CatalogService.staticwebassets.runtime.json
+/Users/navneetagarwal/Desktop/donet/ADO.NET Development/Sprint_mini/CatalogService/obj/Debug/net10.0/compressed/6k52iuorg5-{0}-1ef031zlfz-1ef031zlfz.gz

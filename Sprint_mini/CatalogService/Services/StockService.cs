@@ -20,4 +20,10 @@ public class StockService
 
         return true;
     }
+
+    // ✅ ADD THIS
+    public async Task<string> GetLockStatus(int productId)
+    {
+        return await _redis.GetAsync<string>($"lock_{productId}");
+    }
 }

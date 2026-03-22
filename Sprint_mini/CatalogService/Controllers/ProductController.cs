@@ -14,6 +14,7 @@ public class ProductController : ControllerBase
         _stock = stock;
     }
 
+    // ➕ Add Product
     [HttpPost]
     public async Task<IActionResult> Add(AddProductCommand command)
     {
@@ -21,6 +22,7 @@ public class ProductController : ControllerBase
         return Ok(result);
     }
 
+    // 📦 Get Products (Redis + DB)
     [HttpGet]
     public async Task<IActionResult> Get()
     {
@@ -28,14 +30,36 @@ public class ProductController : ControllerBase
         return Ok(result);
     }
 
+    // 🔒 Lock Product (Dummy user = admin)
     [HttpPost("lock/{id}")]
     public async Task<IActionResult> Lock(int id)
     {
-        var success = await _stock.LockStock(id, "user123");
+        string userId = "admin"; // 👈 dummy user
+
+        // Step 1: check product exists
+        var products = await _mediator.Send(new GetProductsQuery());
+
+        if (!products.Any(p => p.Id == id))
+            return NotFound($"Product with ID {id} not found");
+
+        // Step 2: lock using Redis
+        var success = await _stock.LockStock(id, userId);
 
         if (!success)
-            return BadRequest("Already locked");
+            return BadRequest("Product already locked");
 
-        return Ok("Locked for 5 min");
+        return Ok($"Product {id} locked by {userId} for 5 min");
+    }
+
+    // 🔍 Check Lock Status
+    [HttpGet("lock/{id}")]
+    public async Task<IActionResult> CheckLock(int id)
+    {
+        var result = await _stock.GetLockStatus(id);
+
+        if (string.IsNullOrEmpty(result))
+            return Ok($"Product {id} is not locked");
+
+        return Ok($"Product {id} is locked by {result}");
     }
 }

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Catalog UI</title>
+</head>
+<body>
+
+<h2>Add Product</h2>
+<input id="name" placeholder="Name" />
+<input id="stock" placeholder="Stock" type="number" />
+<button onclick="addProduct()">Add</button>
+
+<h2>Products</h2>
+<button onclick="getProducts()">Load Products</button>
+<ul id="productList"></ul>
+
+<h2>Lock Product</h2>
+<input id="lockId" placeholder="Product ID" />
+<button onclick="lockProduct()">Lock</button>
+
+<h2>Check Lock Status</h2>
+<input id="checkId" placeholder="Product ID" />
+<button onclick="checkLock()">Check</button>
+
+<script>
+const baseUrl = "http://localhost:5063/api/products";
+
+// ➕ Add Product
+async function addProduct() {
+    const name = document.getElementById("name").value;
+    const stock = parseInt(document.getElementById("stock").value);
+
+    await fetch(baseUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name, stock })
+    });
+
+    alert("Product Added");
+}
+
+// 📦 Get Products
+async function getProducts() {
+    const res = await fetch(baseUrl);
+    const data = await res.json();
+
+    const list = document.getElementById("productList");
+    list.innerHTML = "";
+
+    data.forEach(p => {
+        const li = document.createElement("li");
+        li.innerText = `${p.id} - ${p.name} (${p.stock})`;
+        list.appendChild(li);
+    });
+}
+
+// 🔒 Lock Product (admin only)
+async function lockProduct() {
+    const id = document.getElementById("lockId").value;
+
+    if (!id) {
+        alert("Enter Product ID");
+        return;
+    }
+
+    const res = await fetch(`${baseUrl}/lock/${id}`, {
+        method: "POST"
+    });
+
+    const text = await res.text();
+    alert(text);
+}
+
+// 🔍 Check Lock Status
+async function checkLock() {
+    const id = document.getElementById("checkId").value;
+
+    if (!id) {
+        alert("Enter Product ID");
+        return;
+    }
+
+    const res = await fetch(`${baseUrl}/lock/${id}`);
+    const text = await res.text();
+
+    alert(text);
+}
+</script>
+
+</body>
+</html>
